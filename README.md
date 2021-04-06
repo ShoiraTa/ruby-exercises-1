@@ -37,7 +37,7 @@ Once this command runs, you'll now have a "local" copy of this entire repository
 
 ### 2. Install `bundler` gem
 
-run `gem install bundler` in your terminal
+run ` in your terminal
 
 ### 3. From the command line, run `bundle install`
 
